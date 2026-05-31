@@ -5,7 +5,7 @@ import java.util.*;
 public class QueueBusinessLogic {
 
     public static void main(String[] args) {
-
+    	
         // NORMAL QUEUE
         Queue<String> orders =
                 new LinkedList<>();
