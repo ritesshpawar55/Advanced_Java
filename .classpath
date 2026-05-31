@@ -5,7 +5,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="collections_framework/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/collections_framework"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
